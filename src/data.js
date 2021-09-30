@@ -27,3 +27,24 @@ export const sliderItems = [
     bg:'#f9f9f9'
   }
 ]
+
+export const categories = [
+  {
+    id: 1, 
+    img: 'assets/dune-products-images/dune-70-cocoa-dark-chocolate-100g-x-18.png', 
+    alt:'70% COCOA DARK CHOCOLATE',
+    title: '70% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 2, 
+    img: 'assets/dune-products-images/dune-55-cocoa-dark-chocolate-100g-x-18.png', 
+    alt:'55% COCOA DARK CHOCOLATE',
+    title: '55% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 3, 
+    img: 'assets/dune-products-images/dune-milk-chocolate-100g-x-18.png', 
+    alt: '55% COCOA DARK CHOCOLATE',
+    title: '55% COCOA DARK CHOCOLATE'
+  }
+]
