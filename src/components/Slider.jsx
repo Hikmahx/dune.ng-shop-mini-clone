@@ -22,7 +22,7 @@ const Slider = () => {
         >
         <ArrowLeftOutlined/>
       </div>
-      <div style={{transform:'translateX('+ slideIndex *-100 + 'vw)', transition: 'all 1s ease'}} className="wrapper h-full flex">
+      <div style={{transform:'translateX('+ slideIndex *-100 + 'vw)'}} className="wrapper h-full flex">
         {sliderItems.map((item) => (
           <div key= {item.id} className=" slide flex items-center justify-center w-screen h-screen">
             <div className="img-container pl-4 lg:pl-12 flex items-center justify-center flex-1 h-full">
