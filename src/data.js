@@ -48,3 +48,78 @@ export const categories = [
     title: '55% COCOA DARK CHOCOLATE'
   }
 ]
+
+export const popularProducts =[
+  {
+    id: 1, 
+    img: 'assets/dune-products-images/dune-70-cocoa-dark-chocolate-100g-x-18.png', 
+    alt:'70% COCOA DARK CHOCOLATE',
+    title: '70% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 2, 
+    img: 'assets/dune-products-images/dune-55-cocoa-dark-chocolate-100g-x-18.png', 
+    alt:'55% COCOA DARK CHOCOLATE',
+    title: '55% COCOA DARK CHOCOLATE'
+  },  
+  {
+    id: 3, 
+    img: 'assets/dune-products-images/dune-milk-chocolate-100g-x-18.png', 
+    alt:'MILK CHOCOLATE',
+    title: 'MILK CHOCOLATE'
+  }, 
+  {
+    id: 4, 
+    img: 'assets/dune-products-images/dune-70-cocoa-dark-chocolate-30g-x-24.png', 
+    alt:'70% COCOA DARK CHOCOLATE',
+    title: '70% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 5, 
+    img: 'assets/dune-products-images/dune-55-cocoa-dark-chocolate-30g-x-24.png', 
+    alt:'55% COCOA DARK CHOCOLATE',
+    title: '55% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 6, 
+    img: 'assets/dune-products-images/dune-milk-chocolate-30g-x-24.png', 
+    alt:'MILK CHOCOLATE',
+    title: 'MILK CHOCOLATE'
+  },
+  {
+    id: 7, 
+    img: 'assets/dune-products-images/dune-70-cocoa-dark-chocolate-chips-1kg.png', 
+    alt:'70% COCOA DARK CHOCOLATE CHIPS',
+    title: '70% COCOA DARK CHOCOLATE CHIPS'
+  },
+  {
+    id: 8, 
+    img: 'assets/dune-products-images/dune-55-cocoa-dark-chocolate-chips-1kg.png', 
+    alt:'55% COCOA DARK CHOCOLATE CHIPS',
+    title: '55% COCOA DARK CHOCOLATE CHIPS'
+  },
+  {
+    id: 9, 
+    img: 'assets/dune-products-images/dune-milk-chocolate-chips-1kg.png', 
+    alt:'MILK CHOCOLATE CHIPS',
+    title: 'MILK CHOCOLATE CHIPS'
+  },
+  {
+    id: 10, 
+    img: 'assets/dune-products-images/dune-70-cocoa-dark-chocolate-500g.png', 
+    alt:'70% COCOA DARK CHOCOLATE',
+    title: '70% COCOA DARK CHOCOLATE'
+  },
+  {
+    id: 11, 
+    img: 'assets/dune-products-images/dune-55-cocoa-dark-chocolate-500g.png', 
+    alt:'55% COCOA DARK CHOCOLATE',
+    title: '55% COCOA DARK CHOCOLATE'
+  },  
+  {
+    id: 12, 
+    img: 'assets/dune-products-images/dune-milk-chocolate-500g.png', 
+    alt:'MILK CHOCOLATE',
+    title: 'MILK CHOCOLATE'
+  }
+]
