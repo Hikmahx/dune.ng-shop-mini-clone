@@ -123,3 +123,7 @@ export const popularProducts =[
     title: 'MILK CHOCOLATE'
   }
 ]
+
+export const newsImg = {
+  img: 'assets/newsletter-cover.jpg'
+}
