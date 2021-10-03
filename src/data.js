@@ -127,3 +127,7 @@ export const popularProducts =[
 export const newsImg = {
   img: 'assets/newsletter-cover.jpg'
 }
+
+export const bgImg = {
+  img: 'assets/hero-bg.jpg'
+}
